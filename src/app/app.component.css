@@ -1,0 +1,9 @@
+#logo-container {
+    width: 50px;
+    overflow: hidden;
+
+}
+#logo-container img {
+    vertical-align: middle
+}
+
